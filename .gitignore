@@ -1,0 +1,11 @@
+# This repository distributes GalChat; it does not contain the application source.
+*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/COPYRIGHT.md
+!/docs/
+!/docs/*.md
+!/images/
+!/images/*.png
+!/images/*.webp
