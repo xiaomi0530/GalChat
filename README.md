@@ -2,7 +2,7 @@
 
 将 QQ 私聊转化为实时的旮旯给木！！！
 
-**作者：Shinochanwww** · Windows x64 · 闭源软件 · **0.5.21**
+**作者：Shinochanwww** · Windows x64 ·  **0.5.21**
 
 [下载安装包](https://github.com/xiaomi0530/GalChat/releases/latest) · [图文使用指引](docs/QUICKSTART.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/xiaomi0530/GalChat/issues)
 
@@ -53,14 +53,9 @@ AI 会使用当前会话的聊天上下文，费用由你的 DeepSeek API 账户
 - 六种关系各有完整的默认说话习惯，在 **设置 → 关系** 中编辑并保存。
 - 内置中文字体；默认晴栀、慢速文字和好感度显示。
 
-## 当前版本范围
-
-支持 QQNT 好友独立私聊的文字与 Emoji；不支持群聊、图片理解或语音转写，同步不代表完整历史。**微信待开发，尚未开放**；旧微信记录保留在本机并隐藏，不合并至 QQ。
-
-570 项核心测试、57 项界面测试及安装包完整性检查通过，均为隔离验证，本次未新增实机收发或真实模型效果验收。安装包未签名。详见[兼容性说明](docs/COMPATIBILITY.md)和[隐私说明](docs/PRIVACY.md)。
 
 ## 仓库说明
 
-本仓库仅发布介绍、使用说明和安装包，**不公开应用源码**。GitHub 自动生成的 Source code 压缩包仅包含发布仓库文档，安装请下载 `.exe`。
+本仓库仅发布介绍、使用说明和安装包。GitHub 自动生成的 Source code 压缩包仅包含发布仓库文档，安装请下载 `.exe`。
 
 版权见 [COPYRIGHT.md](COPYRIGHT.md)，第三方组件保留各自许可证。GalChat 与腾讯、QQ、微信、DeepSeek 无官方隶属关系。反馈时请隐藏聊天正文、联系人信息和 API Key。
