@@ -1,3 +1,5 @@
+<p><img src="images/app-icon.png" width="96" height="96" alt="GalChat 晴栀图标"></p>
+
 # GalChat
 
 将 QQ 私聊转化为实时的旮旯给木！！！
