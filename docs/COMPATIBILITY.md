@@ -1,4 +1,4 @@
-# GalChat 0.5.20 支持范围
+# GalChat 0.5.21 支持范围
 
 Windows x64；原版 QQNT 好友独立私聊；文字与 Emoji。不支持群聊、图片理解、语音转写。
 
